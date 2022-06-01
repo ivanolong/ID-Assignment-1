@@ -35,5 +35,4 @@ The text for everything was written by me
 Media
 The photos used in this site were screenshots by me
 Acknowledgements
-I received inspiration for this project from this video https://www.youtube.com/watch?v=480nHrkwwHE
-
+I received inspiration for this project from my friend

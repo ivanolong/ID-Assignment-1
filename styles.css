@@ -70,7 +70,7 @@
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background: rgb(0, 0, 19);
+    background: rgb(0, 0, 20);
     z-index: 1;
     overflow: hidden;
   }
